@@ -1,0 +1,10 @@
+ring 1
+sword 3
+braslet 2
+helm 4
+chain 3
+bow 5
+statue 10
+teeth 3
+amulet 4
+shield 5

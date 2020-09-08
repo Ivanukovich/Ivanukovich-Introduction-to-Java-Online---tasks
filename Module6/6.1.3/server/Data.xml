@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<contact-info>
+    <student1>
+        <name>Tanmay Patil</name>
+        <phone>(011) 123-4567</phone>
+        <data>Good</data>
+    </student1>
+    <student2>
+        <name>Manisha Patil</name>
+        <phone>(011) 789-4567</phone>
+        <data>Bad</data>
+    </student2>
+</contact-info>
